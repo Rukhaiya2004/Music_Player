@@ -13,3 +13,7 @@ This is a simple command-line music player written in C for Windows. Theprogram 
 The program will display a menu with options for playing, stopping, skipping songs, and managing the playlist. Follow the on-screen instructions to interact with the music player.
  Notes
 - The program scans the current directory for ".wav" files and initializes the playlist during startup.
+- Ensure that your music files are in the ".wav" format.
+ Contributing
+Feel free to contribute to this project by opening issues or submitting pull 
+requests
